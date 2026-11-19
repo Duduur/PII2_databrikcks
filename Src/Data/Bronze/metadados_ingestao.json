@@ -1,0 +1,8 @@
+{
+  "arquivo_origem": "history.csv",
+  "fonte": "Databricks (base fictícia Terra Signal)",
+  "data_ingestao": "2026-11-19 17:15",
+  "linhas": 5634,
+  "colunas": 23,
+  "sha256": "5898d02a7f648faab7580ef84ed13fe5a6a685e5092696174ff4b1a540d62246"
+}
